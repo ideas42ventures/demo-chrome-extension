@@ -14,6 +14,12 @@ This extension was assembled by following the extension [getting started guide](
 3. Enable Developer Mode by clicking the toggle switch next to **Developer Mode**
 4. Click the Load unpacked button and select the extension directory.
 
-The service worker can be inspected from the extension management page (to inspect to background script); when open, the extension itself can be inspected to inspect the UI.
+### Debugging
+
+The service worker can be inspected from the extension management page (to inspect to background script)
+
+When open, the extension itself can be inspected to inspect the UI.
+
+---
 
 See more notes on extensions [here](https://www.notion.so/ideas42ventures/Chrome-extensions-f699a2841ed0439ca7dbb63b719f2629)
